@@ -13,9 +13,13 @@
 
 ![MasterHead](https://jayamwebsolutions.com/img/website.gif )
 
-- 👀 I’m interested in Full-Stack Development, UI/UX Engineering and Cyber Security
-- 🌱 I’m currently learning Computer Science
-- 📫 Reach me https://ashandimantha.vercel.app/
+- I am motivated and dedicated individual
+with passion for continuous learning and
+growth with maintaining a positive attitude.
+I am a person,
+who’s seeking new challenges and
+opportunities to further develop my skills
+and knowledge
 
 
 <!-- <div align="right"><h5>Connect WIth Me On</h5>
